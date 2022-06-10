@@ -1,0 +1,4 @@
+﻿  projectile.cpp
+C:\Users\alexl\source\repos\Projectile with drag simulation\Projectile with drag simulation\projectile.cpp(28,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\alexl\source\repos\Projectile with drag simulation\Projectile with drag simulation\projectile.cpp(33,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Projectile with drag simulation.vcxproj -> C:\Users\alexl\source\repos\Projectile with drag simulation\x64\Debug\Projectile with drag simulation.exe
